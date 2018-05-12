@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30943#Harper-s-New-Monthly-Magazine-Volume-2-No.-12-May-1851.
 gutenberg_bookshelf: Harper's New Monthly Magazine
 gutenberg_issued: '2010-01-12'
 gutenberg_type: Text
